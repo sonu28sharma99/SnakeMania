@@ -1,5 +1,5 @@
 
-# SnakeMania
+# SnakeMania🐍
 
 It's a kind of Snake Game with a more interactive design where 
 - Snake can move in a given direction and when it eats the food, the length of the snake increases. 
